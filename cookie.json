@@ -1,0 +1,32 @@
+[
+    {
+        "id": 0,
+        "produto": "Chocolate Cookie",
+        "descrição": "Cookie com gotas de chocolate.",
+        "ingredientes": "Farinha, mateiga, leite, gotas de chocolate."
+    },
+    {
+        "id": 1,
+        "produto": "Traditional Cookie",
+        "descrição": "Cookie com gotas de chocolate.",
+        "ingredientes": "Farinha, mateiga, leite, gotas de chocolate."
+    },
+    {
+        "id": 2,
+        "produto": "Chocolate Cookie",
+        "descrição": "Cookie com gotas de chocolate.",
+        "ingredientes": "Farinha, mateiga, leite, gotas de chocolate."
+    },
+    {
+        "id": 3,
+        "produto": "White Chocolate Cookie",
+        "descrição": "Cookie com gotas de chocolate.",
+        "ingredientes": "Farinha, mateiga, leite, gotas de chocolate."
+    },
+    {
+        "id": 4,
+        "produto": "Green Tea Cookie",
+        "descrição": "Cookie com gotas de chocolate.",
+        "ingredientes": "Farinha, mateiga, leite, gotas de chocolate."
+    }
+]
